@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Awesome Market</string>
+    <string name="add">Add Cart</string>
+    <string name="cart">Cart</string>
+    <string name="category">Category:</string>
+    <string name="welcome_to_awesome_market">WELCOME TO AWESOME MARKET</string>
+</resources>
